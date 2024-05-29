@@ -4,12 +4,12 @@
 
 ## Resoluções
 ### List
-* [Lista de Tarefas]()
-* [Carrinho de Compras]()
-* [Catálogo de Livros]()
-* [Soma de Números]()
-* [Ordenação de Pessoas]()
-* [Ordenação de Números]()
+* [Lista de Tarefas](https://github.com/brunosouza2/collections-java-api/tree/main/src/br/com/collections/list/lista_tarefas)
+* [Carrinho de Compras](https://github.com/brunosouza2/collections-java-api/tree/main/src/br/com/collections/list/carrinho_compra)
+* [Catálogo de Livros](https://github.com/brunosouza2/collections-java-api/tree/main/src/br/com/collections/list/catalogo_de_livros)
+* [Soma de Números](https://github.com/brunosouza2/collections-java-api/tree/main/src/br/com/collections/list/soma_de_numeros)
+* [Ordenação de Pessoas](https://github.com/brunosouza2/collections-java-api/tree/main/src/br/com/collections/list/ordenacoes_de_pessoas)
+* [Ordenação de Números](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/list/ordenacao_de_numeros/OrdenacaoNumeros.java)
 
 ## Exercícios Propostos
 ### Utilizando List
