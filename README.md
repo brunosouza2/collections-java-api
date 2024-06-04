@@ -10,6 +10,13 @@
 * [Soma de Números](https://github.com/brunosouza2/collections-java-api/tree/main/src/br/com/collections/list/soma_de_numeros)
 * [Ordenação de Pessoas](https://github.com/brunosouza2/collections-java-api/tree/main/src/br/com/collections/list/ordenacoes_de_pessoas)
 * [Ordenação de Números](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/list/ordenacao_de_numeros/OrdenacaoNumeros.java)
+### Set
+* [Conjunto de Convidados](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/set/operacoes_basicas/conjunto_convidados/ConjuntoConvidados.java)
+* [Conjunto de Palavras Únicas](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/set/operacoes_basicas/conjunto_palavras_unicas/ConjuntoPalavrasUnicas.java)
+* [Agenda de Contatos](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/set/pesquisa_em_set/agenda_de_contatos/AgendaContatos.java)
+* [Lista de Tarefas](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/set/pesquisa_em_set/lista_de_tarefas/ListaTarefas.java)
+* [Cadastro de Produtos](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/set/ordenacao_em_set/cadastro_produtos/CadastroProdutos.java)
+* [Lista de Alunos](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/set/ordenacao_em_set/lista_de_alunos/GerenciadorAlunos.java)
 
 ## Exercícios Propostos:
 
