@@ -18,10 +18,10 @@
 * [Cadastro de Produtos](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/set/ordenacao_em_set/cadastro_produtos/CadastroProdutos.java)
 * [Lista de Alunos](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/set/ordenacao_em_set/lista_de_alunos/GerenciadorAlunos.java)
 ### Map
-* [Agenda de Contatos]()
-* [Dicionário]()
-* [Estoque de Produtos com Preço]()
-* [Contagem de Palavras]()
+* [Agenda de Contatos](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/map/opreacoes_basicas/agenda_contato/AgendaContato.java)
+* [Dicionário](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/map/opreacoes_basicas/dicionario/Dicionario.java)
+* [Estoque de Produtos com Preço](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/map/pesquisa/estoque_de_produtos_com_preco/EstoqueProdutos.java)
+* [Contagem de Palavras](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/map/pesquisa/contagem_palavras/ContagemPalavas.java)
 
 ## Exercícios Propostos:
 
