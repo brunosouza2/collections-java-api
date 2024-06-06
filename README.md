@@ -22,6 +22,8 @@
 * [Dicionário](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/map/opreacoes_basicas/dicionario/Dicionario.java)
 * [Estoque de Produtos com Preço](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/map/pesquisa/estoque_de_produtos_com_preco/EstoqueProdutos.java)
 * [Contagem de Palavras](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/map/pesquisa/contagem_palavras/ContagemPalavas.java)
+* [Agenda de Eventos](https://github.com/brunosouza2/collections-java-api/blob/main/src/br/com/collections/map/ordenacao_map/agenda_de_eventos/AgendaEventos.java)
+* [Livraria Online](https://github.com/brunosouza2/collections-java-api/tree/main/src/br/com/collections/map/ordenacao_map/livraria_online)
 
 ## Exercícios Propostos:
 
